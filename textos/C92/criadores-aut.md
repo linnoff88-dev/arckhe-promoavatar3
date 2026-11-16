@@ -1,0 +1,55 @@
+Tipo: aut
+Formato escolhido: explicação prática
+
+## Ganchos descartados
+1. Você já pensou em como a IA muda sua área? [descartado]
+2. A maioria de criadores de conteúdo usa IA errado, e nem percebe. [descartado]
+3. Isso que você acha que domina, você domina pela metade. [descartado]
+4. Ferramenta não é sistema, e a diferença custa caro. [descartado]
+5. O erro mais comum não é não usar IA — é usar sem método. [vencedor]
+Emoção-gatilho da vencedora: vergonha de já ter percebido e não ter feito nada.
+Por que venceu: nomeia o erro específico sem soar genérico, e obriga a pessoa a se perguntar se é o caso dela.
+
+### FALA
+O erro mais comum não é não usar IA — é usar sem método. Você, câmera ligada às 23h porque o vídeo de amanhã ainda não existe, e o motivo não é falta de esforço: é falta de sistema. Aprender a ferramenta da moda não resolve nada sozinho — resolve saber o que fazer com ela: usar pra vender, pra produzir, pra construir alguma coisa que sobra depois que você desliga o computador. Pare de pagar ferramenta cara. Monte sua própria fábrica de conteúdo com IA. Isso não é sorte, é método — e método se aprende, não se herda. Quem entende isso primeiro sai na frente; quem só assiste, fica pra trás sem perceber quando.
+
+### SOBREPOSIÇÕES DE TELA
+ATENÇÃO (0–2s): "O erro mais comum não é não usar IA — é usar sem método."
+RETENÇÃO: a lacuna entre quem decide e quem só aceita — só fecha ouvindo até o fim
+PROVA: a fatura da assinatura que não se paga sozinha, o canal menor ultrapassando o seu no mês, na tela
+ENGAJAMENTO: comenta em qual dos dois você está hoje: testando ferramenta ou construindo sistema
+CTA (fecho): comenta em qual dos dois você está hoje: testando ferramenta ou construindo sistema
+
+## IMAGENS
+IMAGEM 1 — "O erro mais comum não é" [atenção choque]
+headline: MÉTODO | NÃO É SORTE
+hook: quem fica esperando não escolhe {o lado}
+A ring light switched off beside a phone showing a blank recording screen, cluttered desk at night, cool light, photographic realism, no text
+
+IMAGEM 2 — "criadores de conteúdo — tensão" [tensão]
+headline: O QUE CUSTA | ESPERAR
+hook: {o tempo} não espera ninguém
+A single subscriber counter on a screen frozen mid-number, blurred motion around it, dark room, no legible digits, cinematic realism
+
+IMAGEM 3 — "criadores de conteúdo — prova concreta" [prova concreta]
+headline: O QUE PROVA | TODO DIA
+hook: {o padrão} não espera ninguém
+A tripod standing alone in an empty room with morning light streaming through blinds, no person, quiet tension
+
+IMAGEM 4 — "criadores de conteúdo — virada" [virada]
+headline: O QUE VIRA | DE LADO
+hook: {a escolha} não espera ninguém
+Two identical desks side by side, one cluttered with unpaid invoices, the other clean with a single open notebook, split lighting
+
+IMAGEM 5 — "criadores de conteúdo — consequência" [consequência]
+headline: O QUE SEGUE | SEM VOCÊ
+hook: {o resultado} não espera ninguém
+A stack of unopened camera equipment boxes next to a worn, well-used notebook, warm desk lamp light, no text
+
+IMAGEM 6 — "criadores de conteúdo — primeiro passo" [primeiro passo]
+headline: O QUE COMEÇA | HOJE
+hook: {o primeiro passo} não espera ninguém
+A hand closing a laptop lid at night, the room lit only by the fading screen glow, photographic realism, no face
+
+## ESTRUTURA
+O que a pessoa acha que domina → o erro real → o método → princípio repetível → convite a testar/salvar.

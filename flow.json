@@ -1,0 +1,276 @@
+{
+  "nome": "promoavatar3",
+  "prefixo": "C",
+  "versao_def": 1,
+  "alvos": {
+    "pessoacomum-alc": {
+      "canal": "lives2",
+      "gatilho": "Você usa IA do jeito preguiçoso; dá pra fazer muito melhor com truques simples.",
+      "fecho": "ALCANCE — feche com o convite a comentar, marcar alguém ou compartilhar. NÃO use CTA comercial e NÃO cite o inema.club na FALA."
+    },
+    "pessoacomum-aut": {
+      "canal": "lives2",
+      "gatilho": "Você usa IA do jeito preguiçoso; dá pra fazer muito melhor com truques simples.",
+      "fecho": "AUTORIDADE — feche com o princípio do roteiro mais um convite a salvar, seguir ou testar. A marca pode aparecer de leve na FALA."
+    },
+    "pessoacomum-pro": {
+      "canal": "lives2",
+      "gatilho": "Você usa IA do jeito preguiçoso; dá pra fazer muito melhor com truques simples.",
+      "fecho": "PROMOCIONAL — este é o vídeo de conversão: use o CTA comercial completo."
+    },
+    "jovens-alc": {
+      "canal": "lives22",
+      "gatilho": "Você pode começar uma profissão que ainda está nascendo.",
+      "fecho": "ALCANCE — feche com o convite a comentar, marcar alguém ou compartilhar. NÃO use CTA comercial e NÃO cite o inema.club na FALA."
+    },
+    "jovens-aut": {
+      "canal": "lives22",
+      "gatilho": "Você pode começar uma profissão que ainda está nascendo.",
+      "fecho": "AUTORIDADE — feche com o princípio do roteiro mais um convite a salvar, seguir ou testar. A marca pode aparecer de leve na FALA."
+    },
+    "jovens-pro": {
+      "canal": "lives22",
+      "gatilho": "Você pode começar uma profissão que ainda está nascendo.",
+      "fecho": "PROMOCIONAL — este é o vídeo de conversão: use o CTA comercial completo."
+    },
+    "profissionais-alc": {
+      "canal": "lives23",
+      "gatilho": "Não abandone sua profissão. Aprenda a ampliá-la com IA.",
+      "fecho": "ALCANCE — feche com o convite a comentar, marcar alguém ou compartilhar. NÃO use CTA comercial e NÃO cite o inema.club na FALA."
+    },
+    "profissionais-aut": {
+      "canal": "lives23",
+      "gatilho": "Não abandone sua profissão. Aprenda a ampliá-la com IA.",
+      "fecho": "AUTORIDADE — feche com o princípio do roteiro mais um convite a salvar, seguir ou testar. A marca pode aparecer de leve na FALA."
+    },
+    "profissionais-pro": {
+      "canal": "lives23",
+      "gatilho": "Não abandone sua profissão. Aprenda a ampliá-la com IA.",
+      "fecho": "PROMOCIONAL — este é o vídeo de conversão: use o CTA comercial completo."
+    },
+    "mulheres-alc": {
+      "canal": "lives4",
+      "gatilho": "Use a IA para conquistar autonomia, produtividade e novas oportunidades.",
+      "fecho": "ALCANCE — feche com o convite a comentar, marcar alguém ou compartilhar. NÃO use CTA comercial e NÃO cite o inema.club na FALA."
+    },
+    "mulheres-aut": {
+      "canal": "lives4",
+      "gatilho": "Use a IA para conquistar autonomia, produtividade e novas oportunidades.",
+      "fecho": "AUTORIDADE — feche com o princípio do roteiro mais um convite a salvar, seguir ou testar. A marca pode aparecer de leve na FALA."
+    },
+    "mulheres-pro": {
+      "canal": "lives4",
+      "gatilho": "Use a IA para conquistar autonomia, produtividade e novas oportunidades.",
+      "fecho": "PROMOCIONAL — este é o vídeo de conversão: use o CTA comercial completo."
+    },
+    "empreendedores-alc": {
+      "canal": "lives24",
+      "gatilho": "Transforme IA em redução de custos, vendas e novos negócios.",
+      "fecho": "ALCANCE — feche com o convite a comentar, marcar alguém ou compartilhar. NÃO use CTA comercial e NÃO cite o inema.club na FALA."
+    },
+    "empreendedores-aut": {
+      "canal": "lives24",
+      "gatilho": "Transforme IA em redução de custos, vendas e novos negócios.",
+      "fecho": "AUTORIDADE — feche com o princípio do roteiro mais um convite a salvar, seguir ou testar. A marca pode aparecer de leve na FALA."
+    },
+    "empreendedores-pro": {
+      "canal": "lives24",
+      "gatilho": "Transforme IA em redução de custos, vendas e novos negócios.",
+      "fecho": "PROMOCIONAL — este é o vídeo de conversão: use o CTA comercial completo."
+    },
+    "tecnicos-alc": {
+      "canal": "lives6",
+      "gatilho": "Pare de apenas testar ferramentas. Aprenda a construir sistemas e agentes.",
+      "fecho": "ALCANCE — feche com o convite a comentar, marcar alguém ou compartilhar. NÃO use CTA comercial e NÃO cite o inema.club na FALA."
+    },
+    "tecnicos-aut": {
+      "canal": "lives6",
+      "gatilho": "Pare de apenas testar ferramentas. Aprenda a construir sistemas e agentes.",
+      "fecho": "AUTORIDADE — feche com o princípio do roteiro mais um convite a salvar, seguir ou testar. A marca pode aparecer de leve na FALA."
+    },
+    "tecnicos-pro": {
+      "canal": "lives6",
+      "gatilho": "Pare de apenas testar ferramentas. Aprenda a construir sistemas e agentes.",
+      "fecho": "PROMOCIONAL — este é o vídeo de conversão: use o CTA comercial completo."
+    },
+    "40mais-alc": {
+      "canal": "lives7",
+      "gatilho": "O mercado está tratando sua experiência como custo. A IA a transforma de novo em vantagem.",
+      "fecho": "ALCANCE — feche com o convite a comentar, marcar alguém ou compartilhar. NÃO use CTA comercial e NÃO cite o inema.club na FALA."
+    },
+    "40mais-aut": {
+      "canal": "lives7",
+      "gatilho": "O mercado está tratando sua experiência como custo. A IA a transforma de novo em vantagem.",
+      "fecho": "AUTORIDADE — feche com o princípio do roteiro mais um convite a salvar, seguir ou testar. A marca pode aparecer de leve na FALA."
+    },
+    "40mais-pro": {
+      "canal": "lives7",
+      "gatilho": "O mercado está tratando sua experiência como custo. A IA a transforma de novo em vantagem.",
+      "fecho": "PROMOCIONAL — este é o vídeo de conversão: use o CTA comercial completo."
+    },
+    "60mais-alc": {
+      "canal": "lives8",
+      "gatilho": "A IA pode transformar sua experiência de vida em conhecimento, renda e propósito.",
+      "fecho": "ALCANCE — feche com o convite a comentar, marcar alguém ou compartilhar. NÃO use CTA comercial e NÃO cite o inema.club na FALA."
+    },
+    "60mais-aut": {
+      "canal": "lives8",
+      "gatilho": "A IA pode transformar sua experiência de vida em conhecimento, renda e propósito.",
+      "fecho": "AUTORIDADE — feche com o princípio do roteiro mais um convite a salvar, seguir ou testar. A marca pode aparecer de leve na FALA."
+    },
+    "60mais-pro": {
+      "canal": "lives8",
+      "gatilho": "A IA pode transformar sua experiência de vida em conhecimento, renda e propósito.",
+      "fecho": "PROMOCIONAL — este é o vídeo de conversão: use o CTA comercial completo."
+    },
+    "educadores-alc": {
+      "canal": "lives9",
+      "gatilho": "Você não vai ser substituído pela IA — mas pode ser o professor que ensina com ela.",
+      "fecho": "ALCANCE — feche com o convite a comentar, marcar alguém ou compartilhar. NÃO use CTA comercial e NÃO cite o inema.club na FALA."
+    },
+    "educadores-aut": {
+      "canal": "lives9",
+      "gatilho": "Você não vai ser substituído pela IA — mas pode ser o professor que ensina com ela.",
+      "fecho": "AUTORIDADE — feche com o princípio do roteiro mais um convite a salvar, seguir ou testar. A marca pode aparecer de leve na FALA."
+    },
+    "educadores-pro": {
+      "canal": "lives9",
+      "gatilho": "Você não vai ser substituído pela IA — mas pode ser o professor que ensina com ela.",
+      "fecho": "PROMOCIONAL — este é o vídeo de conversão: use o CTA comercial completo."
+    },
+    "criadores-alc": {
+      "canal": "lives11",
+      "gatilho": "Pare de pagar ferramenta cara. Monte sua própria fábrica de conteúdo com IA.",
+      "fecho": "ALCANCE — feche com o convite a comentar, marcar alguém ou compartilhar. NÃO use CTA comercial e NÃO cite o inema.club na FALA."
+    },
+    "criadores-aut": {
+      "canal": "lives11",
+      "gatilho": "Pare de pagar ferramenta cara. Monte sua própria fábrica de conteúdo com IA.",
+      "fecho": "AUTORIDADE — feche com o princípio do roteiro mais um convite a salvar, seguir ou testar. A marca pode aparecer de leve na FALA."
+    },
+    "criadores-pro": {
+      "canal": "lives11",
+      "gatilho": "Pare de pagar ferramenta cara. Monte sua própria fábrica de conteúdo com IA.",
+      "fecho": "PROMOCIONAL — este é o vídeo de conversão: use o CTA comercial completo."
+    },
+    "recolocacao-alc": {
+      "canal": "lives3",
+      "gatilho": "Perdeu o emprego ou quer mudar de área? A IA pode ser o atalho do seu recomeço.",
+      "fecho": "ALCANCE — feche com o convite a comentar, marcar alguém ou compartilhar. NÃO use CTA comercial e NÃO cite o inema.club na FALA."
+    },
+    "recolocacao-aut": {
+      "canal": "lives3",
+      "gatilho": "Perdeu o emprego ou quer mudar de área? A IA pode ser o atalho do seu recomeço.",
+      "fecho": "AUTORIDADE — feche com o princípio do roteiro mais um convite a salvar, seguir ou testar. A marca pode aparecer de leve na FALA."
+    },
+    "recolocacao-pro": {
+      "canal": "lives3",
+      "gatilho": "Perdeu o emprego ou quer mudar de área? A IA pode ser o atalho do seu recomeço.",
+      "fecho": "PROMOCIONAL — este é o vídeo de conversão: use o CTA comercial completo."
+    },
+    "familia-alc": {
+      "canal": "lives31",
+      "gatilho": "As formações de hoje não preparam seu filho para o mundo que vem — você pode formá-lo para o próximo momento da IA.",
+      "fecho": "ALCANCE — feche com o convite a comentar, marcar alguém ou compartilhar. NÃO use CTA comercial e NÃO cite o inema.club na FALA."
+    },
+    "familia-aut": {
+      "canal": "lives31",
+      "gatilho": "As formações de hoje não preparam seu filho para o mundo que vem — você pode formá-lo para o próximo momento da IA.",
+      "fecho": "AUTORIDADE — feche com o princípio do roteiro mais um convite a salvar, seguir ou testar. A marca pode aparecer de leve na FALA."
+    },
+    "familia-pro": {
+      "canal": "lives31",
+      "gatilho": "As formações de hoje não preparam seu filho para o mundo que vem — você pode formá-lo para o próximo momento da IA.",
+      "fecho": "PROMOCIONAL — este é o vídeo de conversão: use o CTA comercial completo."
+    }
+  },
+  "cta": {
+    "padrao": "cta/cta-9x16.mp4",
+    "viral": "cta/marca-9x16.mp4"
+  },
+  "fases": [
+    {
+      "id": "texto",
+      "escopo": "fluxo",
+      "fila": "texto",
+      "kind": "agent",
+      "tarefa": "fluxo-agente",
+      "prompt": "prompts/fase1-3versoes.md",
+      "variantes": {
+        "manifesto": "prompts/fase1-manifesto.md",
+        "viral": "prompts/fase1-viral.md"
+      },
+      "max_tentativas": 2,
+      "pausa_apos": true
+    },
+    {
+      "id": "gerar",
+      "escopo": "alvo",
+      "fila": "io",
+      "kind": "function",
+      "tarefa": "heygen.gerar",
+      "max_tentativas": 2,
+      "espera": {
+        "intervalo": 60,
+        "timeout": 3600
+      },
+      "opcional": "api"
+    },
+    {
+      "id": "gerar-creditos",
+      "escopo": "alvo",
+      "fila": "io",
+      "kind": "function",
+      "tarefa": "heygen.gerar-creditos",
+      "opcional": "creditos",
+      "max_tentativas": 2,
+      "espera": {
+        "intervalo": 60,
+        "timeout": 3600
+      }
+    },
+    {
+      "id": "estudio",
+      "escopo": "alvo",
+      "fila": "navegador",
+      "kind": "function",
+      "tarefa": "heygen.estudio",
+      "opcional": "estudio",
+      "max_tentativas": 2,
+      "espera": {
+        "intervalo": 60,
+        "timeout": 3600
+      }
+    },
+    {
+      "id": "baixar",
+      "escopo": "alvo",
+      "fila": "io",
+      "kind": "function",
+      "tarefa": "heygen.baixar",
+      "max_tentativas": 3,
+      "espera": {
+        "intervalo": 300,
+        "timeout": 144000
+      },
+      "pausa_apos": true
+    },
+    {
+      "id": "reel",
+      "escopo": "alvo",
+      "fila": "render",
+      "kind": "function",
+      "tarefa": "reel.montar",
+      "max_tentativas": 2,
+      "espera": {
+        "intervalo": 120,
+        "timeout": 21600
+      }
+    }
+  ],
+  "avatar_id": "fda4a6217ea3496a97c96339b8abb902",
+  "voice_id": "29583ec22d284e52b1e07f3ba9ef9d1f",
+  "engine": "avatar_iii",
+  "templates_dir": "templates",
+  "template": "empilhado-capa"
+}
